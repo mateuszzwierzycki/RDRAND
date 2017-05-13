@@ -9,7 +9,6 @@ Public Class Form1
             Debug.WriteLine(RDRAND.Rand())
         Next
 
-
     End Sub
 End Class
 
