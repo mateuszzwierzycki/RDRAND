@@ -12,6 +12,10 @@ Public Class Form1
     End Sub
 End Class
 
+
+''' <summary>
+''' Source https://i255.wordpress.com/2015/12/08/calling-rdrand-and-rdseed-from-netc/
+''' </summary>
 NotInheritable Class RDRAND
     Private Sub New()
     End Sub
